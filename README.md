@@ -4,7 +4,7 @@
 This is my portfolio website
 
 🤔💭
-![excel-to-powerbi-animated-diagram](asset/images/animated excel-power bi-sql.gif)
+![Excel-to-powerbi-animated](asset/images/animated excel-power bi-sql.gif)
 
 
 # Header
