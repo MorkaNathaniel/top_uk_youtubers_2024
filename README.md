@@ -93,7 +93,54 @@ Some of the data visuals that may be appropriate in answering our questions incl
 - Scorecards
 - Horizontal bar chart
 
-![Dashboard-Mockup()
+![Dashboard-Mockup](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/4290df0dcefb0c3db4ed84e00132cc85ed86de32/asset/images/dashboard_mockup.png)
 
+# Tools 
+
+|Tool      |	Purpose|
+|----------|-----------------------------------------------------|
+|Excel     |	Exploring the data
+|SQL Server|	Cleaning, testing, and analyzing the data
+|Power BI	 |  Visualizing the data via interactive dashboards
+|GitHub	   | Hosting the project documentation and version control
+|Mokkup AI | Designing the wireframe/mockup of the dashboard
+
+
+# Development
+## Pseudocode
+- What's the general approach in creating this solution from start to finish?
+1. Get the data
+2. Explore the data in Excel
+3. Load the data into SQL Server
+4. Clean the data with SQL
+5. Test the data with SQL
+6. Visualize the data in Power BI
+7. Generate the findings based on the insights
+8. Write the documentation + commentary
+9. Publish the data to GitHub Pages
+
+
+# Data exploration notes
+This is the stage where you have a scan of what's in the data, errors, inconsistencies, bugs, weird and corrupted characters etc
+
+- What are your initial observations with this dataset? What's caught your attention so far?
+ 
+1. There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data.
+2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
+3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
+4. We have more data than we need, so some of these columns would need to be removed
+
+   
+# Data cleaning
+- What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
+
+The aim is to refine our dataset to ensure it is structured and ready for analysis.
+
+The cleaned data should meet the following criteria and constraints:
+
+- Only relevant columns should be retained.
+- All data types should be appropriate for the contents of each column.
+- No column should contain null values, indicating complete data for all records.
+Below is a table outlining the constraints on our cleaned dataset:
 
 
