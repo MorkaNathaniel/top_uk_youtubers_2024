@@ -5,7 +5,7 @@ This is my portfolio website
 
 🤔💭
 
-![excel-powerbi-animated](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/81e8b7518ad6c2514e74990880cd47cd6c05fddb/asset/images/animated%20excel-power%20bi-sql.gif)
+![excel-powerbi-animated](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/72ee0d97ea56afc0608cc845df6cde7936858127/asset/images/Excel-Powerbi-SQL-%20Image%20Aug%207%2C%202026%2C%2012_08_36%20PM.png)
 
 # Header
 
