@@ -11,7 +11,7 @@
     - [Tools](#tools)
  - [Development](#development)
       - [Pseaudocode](#pseaudocode)
-      - [Data Exploration](#data-exploration)
+      - [Data Exploration notes](#data-exploration-notes)
       - [Data Cleaning](#data-cleaning)
       - [Transform the Data](#transform-the-data)
       - [Create the SQL View](#create-the-sql-view)
@@ -92,7 +92,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 - Treemap
 - Scorecards
 - Horizontal bar chart
-
+# Mockup
 ![Dashboard-Mockup](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/4290df0dcefb0c3db4ed84e00132cc85ed86de32/asset/images/dashboard_mockup.png)
 
 # Tools 
@@ -107,7 +107,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 # Development
-## Pseudocode
+# Pseaudocode
 - What's the general approach in creating this solution from start to finish?
 1. Get the data
 2. Explore the data in Excel
@@ -141,6 +141,27 @@ The cleaned data should meet the following criteria and constraints:
 - Only relevant columns should be retained.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records.
+
 Below is a table outlining the constraints on our cleaned dataset:
+Property	Description
+Number of Rows	100
+Number of Columns	4
+And here is a tabular representation of the expected schema for the clean data:
+
+|Column Name	    | Data Type	|Nullable
+|-----------------|-----------|----------
+|channel_name	    | VARCHAR	  |NO
+|total_subscribers|	INTEGER	  |NO
+|total_views	    |INTEGER	  |NO
+|total_videos	    |INTEGER	  |NO
+
+
+# What steps are needed to clean and shape the data into the desired format?
+
+1. Remove unnecessary columns by only selecting the ones you need
+2. Extract Youtube channel names from the first column
+3. Rename columns using aliases
+
+# Transform the data
 
 
