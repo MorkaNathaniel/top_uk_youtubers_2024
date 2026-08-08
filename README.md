@@ -143,9 +143,11 @@ The cleaned data should meet the following criteria and constraints:
 - No column should contain null values, indicating complete data for all records.
 
 Below is a table outlining the constraints on our cleaned dataset:
-Property	Description
-Number of Rows	100
-Number of Columns	4
+|Property	           |Description |
+|--------------------|------------|
+|Number of Rows      |100
+|Number of Columns	 |4
+
 And here is a tabular representation of the expected schema for the clean data:
 
 |Column Name	    | Data Type	|Nullable
@@ -163,5 +165,24 @@ And here is a tabular representation of the expected schema for the clean data:
 3. Rename columns using aliases
 
 # Transform the data
+
+````sql
+/*
+# 1. Select the required columns
+# 1. Extract the channel name from the 'NOMBRE' column
+*/
+
+-- 1.
+SELECT 
+	SUBSTRING(NOMBRE,1, CHARINDEX('@',NOMBRE)-1) AS Channel_names, -- 2.
+	total_subscribers,
+	total_views,
+	total_videos
+
+FROM
+  top_uk_youtubers_2024
+
+
+```
 
 
