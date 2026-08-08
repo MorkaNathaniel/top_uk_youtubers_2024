@@ -214,5 +214,25 @@ FROM
 Here are the quality tests conducted.
 
 # Row count check
-![]
-	
+![Row-count-check](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/248ea6537d37cc0eaae0711876d94f022a54ac87/asset/images/row%20count%20check%20image.png)
+
+# Column count check
+
+## SQL
+
+
+```sql
+/*
+# Count the total number of columns (or fields) are in the SQL view
+*/
+
+
+SELECT
+    COUNT(*) AS column_count
+FROM
+    INFORMATION_SCHEMA.COLUMNS
+WHERE
+    TABLE_NAME = 'view_uk_youtubers_2024'
+```
+# Output
+
