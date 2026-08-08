@@ -247,7 +247,7 @@ WHERE
 # Output
 ![Column-count-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/50ddc4478d38df822d83de5b358e20f9cdd1fd8b/asset/images/Screenshot%202026-08-08%20165213.png)
 
-# Data tpey check
+# Data type check
 
 ## SQL query
 
