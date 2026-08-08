@@ -266,6 +266,9 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 
+# Output
+![Data-type-check]()
+
 
 
 
