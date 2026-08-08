@@ -295,5 +295,5 @@ HAVING
     COUNT(*) > 1;
 ```sql
 
-![Duplicate-count-check]()
+
 
