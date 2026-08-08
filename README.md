@@ -1,6 +1,6 @@
 # Data Portfolio : Excel - SQL - Power Bi
 
-![excel-powerbi-animated](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/217358a319a7d0282d455a806d53105195a89e93/asset/images/Excel-Powerbi-SQL-%20Image%20Aug%207%2C%202026%2C%2012_08_36%20PM.png)
+![excel-powerbi-animated](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/217358a319a7d0282d455a806d53105195a89e93/asset/images/Excel-Powerbi-SQL-%20Image%20Aug%207%2C%202026%2C%2012_08_36%20PM.png)
 
 # Table of Content
   - [Obejective](#objective)
@@ -93,7 +93,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 - Scorecards
 - Horizontal bar chart
 # Mockup
-![Dashboard-Mockup](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/4290df0dcefb0c3db4ed84e00132cc85ed86de32/asset/images/dashboard_mockup.png)
+![Dashboard-Mockup](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/4290df0dcefb0c3db4ed84e00132cc85ed86de32/asset/images/dashboard_mockup.png)
 
 # Tools 
 
@@ -214,7 +214,7 @@ FROM
 Here are the quality tests conducted.
 
 # Row count check
-![Row-count-check](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/248ea6537d37cc0eaae0711876d94f022a54ac87/asset/images/row%20count%20check%20image.png)
+![Row-count-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/248ea6537d37cc0eaae0711876d94f022a54ac87/asset/images/row%20count%20check%20image.png)
 
 # Column count check
 
