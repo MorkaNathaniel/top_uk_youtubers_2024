@@ -245,4 +245,29 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 # Output
+![Column-count-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/50ddc4478d38df822d83de5b358e20f9cdd1fd8b/asset/images/Screenshot%202026-08-08%20165213.png)
+
+# Data tpey check
+
+## SQL query
+
+```sql
+/*
+# Check the data types of each column from the view by checking the INFORMATION SCHEMA view
+*/
+
+-- 1.
+SELECT
+    COLUMN_NAME,
+    DATA_TYPE
+FROM
+    INFORMATION_SCHEMA.COLUMNS
+WHERE
+    TABLE_NAME = 'view_uk_youtubers_2024';
+```
+
+
+
+
+
 
