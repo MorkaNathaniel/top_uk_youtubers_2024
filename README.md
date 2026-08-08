@@ -7,7 +7,6 @@
   - [Data Source](#data-source)
   - [Stages](#stages)
   - [Design](#design)
-    - [Mockup](#mockup)
     - [Tools](#tools)
  - [Development](#development)
       - [Pseaudocode](#pseaudocode)
@@ -92,8 +91,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 - Treemap
 - Scorecards
 - Horizontal bar chart
-# Mockup
-![Dashboard-Mockup](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/4290df0dcefb0c3db4ed84e00132cc85ed86de32/asset/images/dashboard_mockup.png)
 
 # Tools 
 
@@ -213,7 +210,20 @@ FROM
 
 Here are the quality tests conducted.
 
-# Row count check
+## Row count check
+```sql
+
+/*
+  Count the total number of records (or rows) are in the SQL view
+*/
+
+
+SELECT
+    COUNT(*) AS no_of_rows
+FROM
+    view_uk_youtubers_2024;
+```
+	
 ![Row-count-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/248ea6537d37cc0eaae0711876d94f022a54ac87/asset/images/row%20count%20check%20image.png)
 
 # Column count check
