@@ -293,7 +293,7 @@ GROUP BY
 -- 3.
 HAVING
     COUNT(*) > 1;
-```sql
+```
 
-
+![Duplicate-record-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/1598971a283b067a2ca28f60478ec3b6945dffec/asset/images/Duplicate%20record%20check.png)
 
