@@ -267,7 +267,7 @@ WHERE
 ```
 
 # Output
-![Data-type-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/b3bddf1bf33fac64835cdbd8ecb77a85ae0986d3/asset/images/Data%20type%20check.png)
+![Data-type-check]
 
 # Duplicate count check
 ## SQL query
