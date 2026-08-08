@@ -267,10 +267,33 @@ WHERE
 ```
 
 # Output
-![Data-type-check]()
+![Data-type-check](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/b3bddf1bf33fac64835cdbd8ecb77a85ae0986d3/asset/images/Data%20type%20check.png)
 
+# Duplicate count check
+## SQL query
 
+```sql
+/*
+# 1. Check for duplicate rows in the view
+# 2. Group by the channel name
+# 3. Filter for groups with more than one row
+*/
 
+-- 1.
+SELECT
+    channel_name,
+    COUNT(*) AS duplicate_count
+FROM
+    view_uk_youtubers_2024
 
+-- 2.
+GROUP BY
+    channel_name
 
+-- 3.
+HAVING
+    COUNT(*) > 1;
+```sql
+
+![Duplicate-count-check]()
 
