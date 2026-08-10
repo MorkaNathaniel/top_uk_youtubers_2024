@@ -138,9 +138,9 @@ The cleaned data should meet the following criteria and constraints:
 - Only relevant columns should be retained.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records.
-
 Below is a table outlining the constraints on our cleaned dataset:
 
+# spill
 |Property	           |Description |
 |----------------------|------------|
 |Number of Rows        |100         |
