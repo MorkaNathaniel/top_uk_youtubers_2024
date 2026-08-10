@@ -745,7 +745,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+![Most views](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/40b1cb6b2a019dea00e338db396034d10b73cb36/asset/images/Most%20Views%20Screenshot.png)
 
 
 
