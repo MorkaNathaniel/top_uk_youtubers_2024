@@ -94,13 +94,13 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 # Tools 
 
-|Tool      |	Purpose|
-|----------|-----------------------------------------------------|
-|Excel     |	Exploring the data
-|SQL Server|	Cleaning, testing, and analyzing the data
-|Power BI	 |  Visualizing the data via interactive dashboards
-|GitHub	   | Hosting the project documentation and version control
-|Mokkup AI | Designing the wireframe/mockup of the dashboard
+|Tool         |	Purpose|
+|-------------|-------------------------------------------------------|
+|Excel        |	Exploring the data                                    | 
+|SQL Server   |	Cleaning, testing, and analyzing the data             | 
+|Power BI	  |  Visualizing the data via interactive dashboards      |
+|GitHub	      | Hosting the project documentation and version control |
+|Mokkup AI    | Designing the wireframe/mockup of the dashboard       |
 
 
 # Development
@@ -140,19 +140,20 @@ The cleaned data should meet the following criteria and constraints:
 - No column should contain null values, indicating complete data for all records.
 
 Below is a table outlining the constraints on our cleaned dataset:
+
 |Property	           |Description |
-|--------------------|------------|
-|Number of Rows      |100
-|Number of Columns	 |4
+|----------------------|------------|
+|Number of Rows        |100         |
+|Number of Columns	   |4           |
 
 And here is a tabular representation of the expected schema for the clean data:
 
-|Column Name	    | Data Type	|Nullable
-|-----------------|-----------|----------
-|channel_name	    | VARCHAR	  |NO
-|total_subscribers|	INTEGER	  |NO
-|total_views	    |INTEGER	  |NO
-|total_videos	    |INTEGER	  |NO
+|Column Name	    | Data Type	  |Nullable
+|-------------------|-------------|----------|
+|channel_name	    | VARCHAR	  |NO        |
+|total_subscribers  | INTEGER	  |NO        |
+|total_views	    |INTEGER	  |NO        |
+|total_videos	    |INTEGER	  |NO        |
 
 
 # What steps are needed to clean and shape the data into the desired format?
