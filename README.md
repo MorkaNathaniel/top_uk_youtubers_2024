@@ -650,7 +650,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/d776dd3fafe555c4cd8dd4e2fc272c0e9034f941/asset/images/Most%20Videos%20Screenshot.png)
+![Most videos](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/40b1cb6b2a019dea00e338db396034d10b73cb36/asset/images/Most%20Views%20Screenshot.png)
 
 
 ### 3.  Youtubers with the most views 
