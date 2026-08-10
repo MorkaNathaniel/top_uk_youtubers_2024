@@ -301,6 +301,7 @@ HAVING
 # Visualisation 
 ## Result
  - What does the dashboard look like?
+![PowerBi-Dashboard](https://github.com/MorkaNathaniel/top_uk_youtubers_2024/blob/8e035ae6f9da0ea603a236cf4b3a8114942fed9f/asset/images/Top_YouTuber_2024.%20Dashboard%20(1).gif)
 
 
 
