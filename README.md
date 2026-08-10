@@ -561,7 +561,7 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs.png)
+![Most subsc](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/9043bb764fffe2f7762830797e5f12a861ff17c1/asset/images/most%20subscribers%20screenshot.png))
 
 ### 2. Youtubers with the most videos uploaded
 
