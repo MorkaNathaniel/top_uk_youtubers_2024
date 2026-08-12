@@ -1,4 +1,4 @@
-# Data Portfolio : Excel - SQL - Power Bi
+# Data Portfolio : Excel - SQL - Power Bi (Guided Project)
 
 ![excel-powerbi-animated](https://raw.githubusercontent.com/MorkaNathaniel/top_uk_youtubers_2024/217358a319a7d0282d455a806d53105195a89e93/asset/images/Excel-Powerbi-SQL-%20Image%20Aug%207%2C%202026%2C%2012_08_36%20PM.png)
 
